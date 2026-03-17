@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Fernanda",
+        "idade": 26,
+        "estuda": true,
+        "detalhes_estudo": {
+            "curso": "Lógica de Programação",
+            "instituicao": "Senac"
+        },
+        "hobbies": ["musculação", "corrida", "cozinhar"]
+    },
+    {
+        "nome": "Marcos",
+        "idade": 20,
+        "estuda": true,
+        "detalhes_estudo": {
+            "curso": "Culinária",
+            "instituicao": "Senac Santo Amaro"
+        },
+        "hobbies": ["jogar bola", "dançar", "cantar"]
+    }
+]
